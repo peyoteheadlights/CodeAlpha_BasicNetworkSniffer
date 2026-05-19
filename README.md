@@ -1,17 +1,13 @@
-# Basic Network Sniffer
+#Basic Network Sniffer
 
-A Python-based network packet sniffer built using Scapy.
+A Python packet sniffer built using Scapy.
 
 ## Features
-- Captures live packets
-- Displays source and destination IPs
-- Detects TCP, UDP, and ICMP protocols
-- Shows packet payloads
+- Packet capture
+- Protocol detection
+- Source/destination IP tracking
+- Payload analysis
 
-## Installation
-
-pip install -r requirements.txt
-
-## Usage
-
-python sniffer.py
+## Technologies
+- Python
+- Scapy
