@@ -1,1 +1,17 @@
-# CodeAlpha_BasicNetworkSniffer
+# Basic Network Sniffer
+
+A Python-based network packet sniffer built using Scapy.
+
+## Features
+- Captures live packets
+- Displays source and destination IPs
+- Detects TCP, UDP, and ICMP protocols
+- Shows packet payloads
+
+## Installation
+
+pip install -r requirements.txt
+
+## Usage
+
+python sniffer.py
